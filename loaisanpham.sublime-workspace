@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"_POST"
+			],
+			[
+				"G",
+				"_GET"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"h",
+				"ham"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"M",
+				"maloaicha"
+			],
+			[
+				"le",
+				"lenght"
+			],
+			[
+				"a",
+				"arr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/weblazada/html/page_product/function.php",
+		"/C/xampp/htdocs/weblazada/html/page_product/sanpham.php",
+		"/C/xampp/htdocs/weblazada/html/product_template.php",
+		"/C/xampp/htdocs/weblazada/html/page_product/hoadon.php",
+		"/C/xampp/htdocs/weblazada/loaisanpham.php",
+		"/C/xampp/htdocs/weblazada/loaisanpham1.php",
+		"/E/lazada/Source code App Lazada-20170825T103818Z-001/Source code App Lazada/Source PHP/weblazada/loaisanpham.php",
+		"/C/xampp/htdocs/weblazada/config.php",
+		"/C/xampp/htdocs/weblazada/loáianpham1.php",
+		"/C/xampp/htdocs/weblazada/loaisanpham - Copy.php",
+		"/C/Users/Huu Dung/AppData/Local/Temp/Rar$DIa0.535/loaisanpham.php",
+		"/C/xampp/htdocs/index.php",
+		"/D/Ki_9/Source code App Lazada/Source PHP/weblazada/loaisanpham.php",
+		"/C/xampp/htdocs/weblazada/index.php",
+		"/C/xampp/htdocs/weblazada/html/page_product/loaisanpham.php",
+		"/C/xampp/htdocs/weblazada/html/index.php",
+		"/E/wp/padawedding/index.php",
+		"/E/lazada/Source code App Lazada-20170825T103818Z-001/Source code App Lazada/Source PHP/weblazada/html/index.php",
+		"/D/Python/hello.py",
+		"/E/lazada/Source code App Lazada-20170825T103818Z-001/Source code App Lazada/Source PHP/weblazada/index.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "loaisanpham.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"html\\product_template.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
