@@ -192,7 +192,7 @@
 			// $ngaygiao = date_format($ngaygiao,"d/m/Y") ;
 			
 			$trangthai = "chờ kiểm duyệt";
-			$ngaygiao = "đang trong quá trình giao hàng";
+			$ngaygiao = "dang trong quá trình giao hàng";
 
 			$truyvan = "INSERT INTO hoadon (NGAYMUA,NGAYGIAO,TRANGTHAI,TENNGUOINHAN,SODT,DIACHI,CHUYENKHOAN) VALUES ('".$ngayhientai."', '".$ngaygiao."', '".$trangthai."', '".$tennguoinhan."', '".$sodt."', '".$diachi."', '".$chuyenkhoan."')";
 			$ketqua = mysqli_query($conn,$truyvan);

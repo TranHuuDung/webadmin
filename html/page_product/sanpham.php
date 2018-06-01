@@ -130,13 +130,13 @@
 <div class="hienthisanpham">
 	<div class="card">
 
-		<div class="col-right">
+		<!-- <div class="col-right">
 			<table class="timkiem">
 				<tr>
 					<td><input type="text" class="form-control" id="txt-timkiemsanpham" placeholder="Nhập tên sản phẩm cần tìm"/></td>
 					<td><button id="btn-timkiemsanpham" class="btn btn-default"><i class="glyphicon glyphicon-search"></i></button></td>
 				</tr>
-			</table>
+			</table> -->
 			
 			
 		</div>
