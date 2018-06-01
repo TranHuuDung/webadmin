@@ -1,8 +1,8 @@
 <?php 
-	define("DBSERVER", "localhost");
-	define("DBUSERNAME","root");
-	define("DBPASSWORD","");
-	define("DBNAME","lazada");
+	define("DBSERVER", "sql12.freemysqlhosting.net");
+	define("DBUSERNAME","sql12240863");
+	define("DBPASSWORD","tFtz6iaxnf");
+	define("DBNAME","sql12240863");
 
 	date_default_timezone_set("Asia/Ho_Chi_Minh");
 
