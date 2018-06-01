@@ -32,7 +32,7 @@
 			<button id="dongy" type="submit">Đồng ý</button>
 			<br/>
 			
-			<input type="hidden" id="url" value=<?php echo "http://$_SERVER[HTTP_HOST]/weblazada/" ?>>
+			<input type="hidden" id="url" value=<?php echo "http://$_SERVER[HTTP_HOST]/" ?>>
 		</div>
 	</div>
 </body>
